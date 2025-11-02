@@ -7,7 +7,7 @@ class Logic
     //  Description   : To print Odd numbres up to N
     //  Input         : int
     //  Output        : void
-    //  Author        : Prajwal Sanjay Pansare
+    //  Author        : Omkar Nandkishor Pinjarkar
     //  Date          : 27/10/2025
     //
     //////////////////////////////////////////////////////////////
