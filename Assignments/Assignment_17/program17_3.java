@@ -7,7 +7,7 @@ class Logic
     //  Description   : To get the maximum number between two numbers
     //  Input         : int
     //  Output        : void
-    //  Author        : Prajwal Sanjay Pansare
+    //  Author        : Omkar Nandkishor Pinjarkar
     //  Date          : 27/10/2025
     //
     //////////////////////////////////////////////////////////////
